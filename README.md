@@ -2,6 +2,8 @@
 
 #### A website that resambles the Twitter look and feel
 
+![Twitter Layout](./twitter-clone.jpg)
+
 #### Features
 - JavScript
 - HTML 
